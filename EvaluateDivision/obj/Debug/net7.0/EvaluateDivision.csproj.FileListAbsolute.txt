@@ -1,0 +1,15 @@
+D:\C#\подготовка\LeetCode75\EvaluateDivision\bin\Debug\net7.0\EvaluateDivision.exe
+D:\C#\подготовка\LeetCode75\EvaluateDivision\bin\Debug\net7.0\EvaluateDivision.deps.json
+D:\C#\подготовка\LeetCode75\EvaluateDivision\bin\Debug\net7.0\EvaluateDivision.runtimeconfig.json
+D:\C#\подготовка\LeetCode75\EvaluateDivision\bin\Debug\net7.0\EvaluateDivision.dll
+D:\C#\подготовка\LeetCode75\EvaluateDivision\bin\Debug\net7.0\EvaluateDivision.pdb
+D:\C#\подготовка\LeetCode75\EvaluateDivision\obj\Debug\net7.0\EvaluateDivision.csproj.AssemblyReference.cache
+D:\C#\подготовка\LeetCode75\EvaluateDivision\obj\Debug\net7.0\EvaluateDivision.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\подготовка\LeetCode75\EvaluateDivision\obj\Debug\net7.0\EvaluateDivision.AssemblyInfoInputs.cache
+D:\C#\подготовка\LeetCode75\EvaluateDivision\obj\Debug\net7.0\EvaluateDivision.AssemblyInfo.cs
+D:\C#\подготовка\LeetCode75\EvaluateDivision\obj\Debug\net7.0\EvaluateDivision.csproj.CoreCompileInputs.cache
+D:\C#\подготовка\LeetCode75\EvaluateDivision\obj\Debug\net7.0\EvaluateDivision.dll
+D:\C#\подготовка\LeetCode75\EvaluateDivision\obj\Debug\net7.0\refint\EvaluateDivision.dll
+D:\C#\подготовка\LeetCode75\EvaluateDivision\obj\Debug\net7.0\EvaluateDivision.pdb
+D:\C#\подготовка\LeetCode75\EvaluateDivision\obj\Debug\net7.0\EvaluateDivision.genruntimeconfig.cache
+D:\C#\подготовка\LeetCode75\EvaluateDivision\obj\Debug\net7.0\ref\EvaluateDivision.dll

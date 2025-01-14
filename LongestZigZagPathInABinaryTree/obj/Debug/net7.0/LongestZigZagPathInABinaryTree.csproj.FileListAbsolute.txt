@@ -1,0 +1,15 @@
+E:\Shared\mine\C#\LeetCode75\LongestZigZagPathInABinaryTree\bin\Debug\net7.0\LongestZigZagPathInABinaryTree.exe
+E:\Shared\mine\C#\LeetCode75\LongestZigZagPathInABinaryTree\bin\Debug\net7.0\LongestZigZagPathInABinaryTree.deps.json
+E:\Shared\mine\C#\LeetCode75\LongestZigZagPathInABinaryTree\bin\Debug\net7.0\LongestZigZagPathInABinaryTree.runtimeconfig.json
+E:\Shared\mine\C#\LeetCode75\LongestZigZagPathInABinaryTree\bin\Debug\net7.0\LongestZigZagPathInABinaryTree.dll
+E:\Shared\mine\C#\LeetCode75\LongestZigZagPathInABinaryTree\bin\Debug\net7.0\LongestZigZagPathInABinaryTree.pdb
+E:\Shared\mine\C#\LeetCode75\LongestZigZagPathInABinaryTree\obj\Debug\net7.0\LongestZigZagPathInABinaryTree.csproj.AssemblyReference.cache
+E:\Shared\mine\C#\LeetCode75\LongestZigZagPathInABinaryTree\obj\Debug\net7.0\LongestZigZagPathInABinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shared\mine\C#\LeetCode75\LongestZigZagPathInABinaryTree\obj\Debug\net7.0\LongestZigZagPathInABinaryTree.AssemblyInfoInputs.cache
+E:\Shared\mine\C#\LeetCode75\LongestZigZagPathInABinaryTree\obj\Debug\net7.0\LongestZigZagPathInABinaryTree.AssemblyInfo.cs
+E:\Shared\mine\C#\LeetCode75\LongestZigZagPathInABinaryTree\obj\Debug\net7.0\LongestZigZagPathInABinaryTree.csproj.CoreCompileInputs.cache
+E:\Shared\mine\C#\LeetCode75\LongestZigZagPathInABinaryTree\obj\Debug\net7.0\LongestZigZagPathInABinaryTree.dll
+E:\Shared\mine\C#\LeetCode75\LongestZigZagPathInABinaryTree\obj\Debug\net7.0\refint\LongestZigZagPathInABinaryTree.dll
+E:\Shared\mine\C#\LeetCode75\LongestZigZagPathInABinaryTree\obj\Debug\net7.0\LongestZigZagPathInABinaryTree.pdb
+E:\Shared\mine\C#\LeetCode75\LongestZigZagPathInABinaryTree\obj\Debug\net7.0\LongestZigZagPathInABinaryTree.genruntimeconfig.cache
+E:\Shared\mine\C#\LeetCode75\LongestZigZagPathInABinaryTree\obj\Debug\net7.0\ref\LongestZigZagPathInABinaryTree.dll

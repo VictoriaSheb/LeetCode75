@@ -1,0 +1,15 @@
+E:\Shared\mine\C#\LeetCode75\MaximumDepthOfBinaryTree\bin\Debug\net7.0\MaximumDepthOfBinaryTree.exe
+E:\Shared\mine\C#\LeetCode75\MaximumDepthOfBinaryTree\bin\Debug\net7.0\MaximumDepthOfBinaryTree.deps.json
+E:\Shared\mine\C#\LeetCode75\MaximumDepthOfBinaryTree\bin\Debug\net7.0\MaximumDepthOfBinaryTree.runtimeconfig.json
+E:\Shared\mine\C#\LeetCode75\MaximumDepthOfBinaryTree\bin\Debug\net7.0\MaximumDepthOfBinaryTree.dll
+E:\Shared\mine\C#\LeetCode75\MaximumDepthOfBinaryTree\bin\Debug\net7.0\MaximumDepthOfBinaryTree.pdb
+E:\Shared\mine\C#\LeetCode75\MaximumDepthOfBinaryTree\obj\Debug\net7.0\MaximumDepthOfBinaryTree.csproj.AssemblyReference.cache
+E:\Shared\mine\C#\LeetCode75\MaximumDepthOfBinaryTree\obj\Debug\net7.0\MaximumDepthOfBinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shared\mine\C#\LeetCode75\MaximumDepthOfBinaryTree\obj\Debug\net7.0\MaximumDepthOfBinaryTree.AssemblyInfoInputs.cache
+E:\Shared\mine\C#\LeetCode75\MaximumDepthOfBinaryTree\obj\Debug\net7.0\MaximumDepthOfBinaryTree.AssemblyInfo.cs
+E:\Shared\mine\C#\LeetCode75\MaximumDepthOfBinaryTree\obj\Debug\net7.0\MaximumDepthOfBinaryTree.csproj.CoreCompileInputs.cache
+E:\Shared\mine\C#\LeetCode75\MaximumDepthOfBinaryTree\obj\Debug\net7.0\MaximumDepthOfBinaryTree.dll
+E:\Shared\mine\C#\LeetCode75\MaximumDepthOfBinaryTree\obj\Debug\net7.0\refint\MaximumDepthOfBinaryTree.dll
+E:\Shared\mine\C#\LeetCode75\MaximumDepthOfBinaryTree\obj\Debug\net7.0\MaximumDepthOfBinaryTree.pdb
+E:\Shared\mine\C#\LeetCode75\MaximumDepthOfBinaryTree\obj\Debug\net7.0\MaximumDepthOfBinaryTree.genruntimeconfig.cache
+E:\Shared\mine\C#\LeetCode75\MaximumDepthOfBinaryTree\obj\Debug\net7.0\ref\MaximumDepthOfBinaryTree.dll

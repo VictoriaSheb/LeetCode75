@@ -1,0 +1,15 @@
+E:\Shared\mine\C#\LeetCode75\ReverseLinkedList\bin\Debug\net7.0\ReverseLinkedList.exe
+E:\Shared\mine\C#\LeetCode75\ReverseLinkedList\bin\Debug\net7.0\ReverseLinkedList.deps.json
+E:\Shared\mine\C#\LeetCode75\ReverseLinkedList\bin\Debug\net7.0\ReverseLinkedList.runtimeconfig.json
+E:\Shared\mine\C#\LeetCode75\ReverseLinkedList\bin\Debug\net7.0\ReverseLinkedList.dll
+E:\Shared\mine\C#\LeetCode75\ReverseLinkedList\bin\Debug\net7.0\ReverseLinkedList.pdb
+E:\Shared\mine\C#\LeetCode75\ReverseLinkedList\obj\Debug\net7.0\ReverseLinkedList.csproj.AssemblyReference.cache
+E:\Shared\mine\C#\LeetCode75\ReverseLinkedList\obj\Debug\net7.0\ReverseLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shared\mine\C#\LeetCode75\ReverseLinkedList\obj\Debug\net7.0\ReverseLinkedList.AssemblyInfoInputs.cache
+E:\Shared\mine\C#\LeetCode75\ReverseLinkedList\obj\Debug\net7.0\ReverseLinkedList.AssemblyInfo.cs
+E:\Shared\mine\C#\LeetCode75\ReverseLinkedList\obj\Debug\net7.0\ReverseLinkedList.csproj.CoreCompileInputs.cache
+E:\Shared\mine\C#\LeetCode75\ReverseLinkedList\obj\Debug\net7.0\ReverseLinkedList.dll
+E:\Shared\mine\C#\LeetCode75\ReverseLinkedList\obj\Debug\net7.0\refint\ReverseLinkedList.dll
+E:\Shared\mine\C#\LeetCode75\ReverseLinkedList\obj\Debug\net7.0\ReverseLinkedList.pdb
+E:\Shared\mine\C#\LeetCode75\ReverseLinkedList\obj\Debug\net7.0\ReverseLinkedList.genruntimeconfig.cache
+E:\Shared\mine\C#\LeetCode75\ReverseLinkedList\obj\Debug\net7.0\ref\ReverseLinkedList.dll

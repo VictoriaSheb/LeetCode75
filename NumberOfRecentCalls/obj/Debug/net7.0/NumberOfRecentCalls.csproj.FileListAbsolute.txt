@@ -1,0 +1,15 @@
+D:\C#\подготовка\LeetCode75\NumberOfRecentCalls\bin\Debug\net7.0\NumberOfRecentCalls.exe
+D:\C#\подготовка\LeetCode75\NumberOfRecentCalls\bin\Debug\net7.0\NumberOfRecentCalls.deps.json
+D:\C#\подготовка\LeetCode75\NumberOfRecentCalls\bin\Debug\net7.0\NumberOfRecentCalls.runtimeconfig.json
+D:\C#\подготовка\LeetCode75\NumberOfRecentCalls\bin\Debug\net7.0\NumberOfRecentCalls.dll
+D:\C#\подготовка\LeetCode75\NumberOfRecentCalls\bin\Debug\net7.0\NumberOfRecentCalls.pdb
+D:\C#\подготовка\LeetCode75\NumberOfRecentCalls\obj\Debug\net7.0\NumberOfRecentCalls.csproj.AssemblyReference.cache
+D:\C#\подготовка\LeetCode75\NumberOfRecentCalls\obj\Debug\net7.0\NumberOfRecentCalls.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\подготовка\LeetCode75\NumberOfRecentCalls\obj\Debug\net7.0\NumberOfRecentCalls.AssemblyInfoInputs.cache
+D:\C#\подготовка\LeetCode75\NumberOfRecentCalls\obj\Debug\net7.0\NumberOfRecentCalls.AssemblyInfo.cs
+D:\C#\подготовка\LeetCode75\NumberOfRecentCalls\obj\Debug\net7.0\NumberOfRecentCalls.csproj.CoreCompileInputs.cache
+D:\C#\подготовка\LeetCode75\NumberOfRecentCalls\obj\Debug\net7.0\NumberOfRecentCalls.dll
+D:\C#\подготовка\LeetCode75\NumberOfRecentCalls\obj\Debug\net7.0\refint\NumberOfRecentCalls.dll
+D:\C#\подготовка\LeetCode75\NumberOfRecentCalls\obj\Debug\net7.0\NumberOfRecentCalls.pdb
+D:\C#\подготовка\LeetCode75\NumberOfRecentCalls\obj\Debug\net7.0\NumberOfRecentCalls.genruntimeconfig.cache
+D:\C#\подготовка\LeetCode75\NumberOfRecentCalls\obj\Debug\net7.0\ref\NumberOfRecentCalls.dll

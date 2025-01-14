@@ -1,0 +1,15 @@
+D:\C#\подготовка\LeetCode75\DominoAndTrominoTiling\bin\Debug\net7.0\DominoAndTrominoTiling.exe
+D:\C#\подготовка\LeetCode75\DominoAndTrominoTiling\bin\Debug\net7.0\DominoAndTrominoTiling.deps.json
+D:\C#\подготовка\LeetCode75\DominoAndTrominoTiling\bin\Debug\net7.0\DominoAndTrominoTiling.runtimeconfig.json
+D:\C#\подготовка\LeetCode75\DominoAndTrominoTiling\bin\Debug\net7.0\DominoAndTrominoTiling.dll
+D:\C#\подготовка\LeetCode75\DominoAndTrominoTiling\bin\Debug\net7.0\DominoAndTrominoTiling.pdb
+D:\C#\подготовка\LeetCode75\DominoAndTrominoTiling\obj\Debug\net7.0\DominoAndTrominoTiling.csproj.AssemblyReference.cache
+D:\C#\подготовка\LeetCode75\DominoAndTrominoTiling\obj\Debug\net7.0\DominoAndTrominoTiling.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\подготовка\LeetCode75\DominoAndTrominoTiling\obj\Debug\net7.0\DominoAndTrominoTiling.AssemblyInfoInputs.cache
+D:\C#\подготовка\LeetCode75\DominoAndTrominoTiling\obj\Debug\net7.0\DominoAndTrominoTiling.AssemblyInfo.cs
+D:\C#\подготовка\LeetCode75\DominoAndTrominoTiling\obj\Debug\net7.0\DominoAndTrominoTiling.csproj.CoreCompileInputs.cache
+D:\C#\подготовка\LeetCode75\DominoAndTrominoTiling\obj\Debug\net7.0\DominoAndTrominoTiling.dll
+D:\C#\подготовка\LeetCode75\DominoAndTrominoTiling\obj\Debug\net7.0\refint\DominoAndTrominoTiling.dll
+D:\C#\подготовка\LeetCode75\DominoAndTrominoTiling\obj\Debug\net7.0\DominoAndTrominoTiling.pdb
+D:\C#\подготовка\LeetCode75\DominoAndTrominoTiling\obj\Debug\net7.0\DominoAndTrominoTiling.genruntimeconfig.cache
+D:\C#\подготовка\LeetCode75\DominoAndTrominoTiling\obj\Debug\net7.0\ref\DominoAndTrominoTiling.dll

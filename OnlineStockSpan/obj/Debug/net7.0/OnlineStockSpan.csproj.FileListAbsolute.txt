@@ -1,0 +1,15 @@
+D:\C#\подготовка\LeetCode75\OnlineStockSpan\obj\Debug\net7.0\OnlineStockSpan.csproj.AssemblyReference.cache
+D:\C#\подготовка\LeetCode75\OnlineStockSpan\obj\Debug\net7.0\OnlineStockSpan.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\подготовка\LeetCode75\OnlineStockSpan\obj\Debug\net7.0\OnlineStockSpan.AssemblyInfoInputs.cache
+D:\C#\подготовка\LeetCode75\OnlineStockSpan\obj\Debug\net7.0\OnlineStockSpan.AssemblyInfo.cs
+D:\C#\подготовка\LeetCode75\OnlineStockSpan\obj\Debug\net7.0\OnlineStockSpan.csproj.CoreCompileInputs.cache
+D:\C#\подготовка\LeetCode75\OnlineStockSpan\bin\Debug\net7.0\OnlineStockSpan.exe
+D:\C#\подготовка\LeetCode75\OnlineStockSpan\bin\Debug\net7.0\OnlineStockSpan.deps.json
+D:\C#\подготовка\LeetCode75\OnlineStockSpan\bin\Debug\net7.0\OnlineStockSpan.runtimeconfig.json
+D:\C#\подготовка\LeetCode75\OnlineStockSpan\bin\Debug\net7.0\OnlineStockSpan.dll
+D:\C#\подготовка\LeetCode75\OnlineStockSpan\bin\Debug\net7.0\OnlineStockSpan.pdb
+D:\C#\подготовка\LeetCode75\OnlineStockSpan\obj\Debug\net7.0\OnlineStockSpan.dll
+D:\C#\подготовка\LeetCode75\OnlineStockSpan\obj\Debug\net7.0\refint\OnlineStockSpan.dll
+D:\C#\подготовка\LeetCode75\OnlineStockSpan\obj\Debug\net7.0\OnlineStockSpan.pdb
+D:\C#\подготовка\LeetCode75\OnlineStockSpan\obj\Debug\net7.0\OnlineStockSpan.genruntimeconfig.cache
+D:\C#\подготовка\LeetCode75\OnlineStockSpan\obj\Debug\net7.0\ref\OnlineStockSpan.dll

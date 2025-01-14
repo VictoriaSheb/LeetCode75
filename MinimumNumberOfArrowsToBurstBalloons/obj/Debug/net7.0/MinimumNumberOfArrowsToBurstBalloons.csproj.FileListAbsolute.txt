@@ -1,0 +1,15 @@
+D:\C#\подготовка\LeetCode75\MinimumNumberOfArrowsToBurstBalloons\bin\Debug\net7.0\MinimumNumberOfArrowsToBurstBalloons.exe
+D:\C#\подготовка\LeetCode75\MinimumNumberOfArrowsToBurstBalloons\bin\Debug\net7.0\MinimumNumberOfArrowsToBurstBalloons.deps.json
+D:\C#\подготовка\LeetCode75\MinimumNumberOfArrowsToBurstBalloons\bin\Debug\net7.0\MinimumNumberOfArrowsToBurstBalloons.runtimeconfig.json
+D:\C#\подготовка\LeetCode75\MinimumNumberOfArrowsToBurstBalloons\bin\Debug\net7.0\MinimumNumberOfArrowsToBurstBalloons.dll
+D:\C#\подготовка\LeetCode75\MinimumNumberOfArrowsToBurstBalloons\bin\Debug\net7.0\MinimumNumberOfArrowsToBurstBalloons.pdb
+D:\C#\подготовка\LeetCode75\MinimumNumberOfArrowsToBurstBalloons\obj\Debug\net7.0\MinimumNumberOfArrowsToBurstBalloons.csproj.AssemblyReference.cache
+D:\C#\подготовка\LeetCode75\MinimumNumberOfArrowsToBurstBalloons\obj\Debug\net7.0\MinimumNumberOfArrowsToBurstBalloons.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\подготовка\LeetCode75\MinimumNumberOfArrowsToBurstBalloons\obj\Debug\net7.0\MinimumNumberOfArrowsToBurstBalloons.AssemblyInfoInputs.cache
+D:\C#\подготовка\LeetCode75\MinimumNumberOfArrowsToBurstBalloons\obj\Debug\net7.0\MinimumNumberOfArrowsToBurstBalloons.AssemblyInfo.cs
+D:\C#\подготовка\LeetCode75\MinimumNumberOfArrowsToBurstBalloons\obj\Debug\net7.0\MinimumNumberOfArrowsToBurstBalloons.csproj.CoreCompileInputs.cache
+D:\C#\подготовка\LeetCode75\MinimumNumberOfArrowsToBurstBalloons\obj\Debug\net7.0\MinimumNumberOfArrowsToBurstBalloons.dll
+D:\C#\подготовка\LeetCode75\MinimumNumberOfArrowsToBurstBalloons\obj\Debug\net7.0\refint\MinimumNumberOfArrowsToBurstBalloons.dll
+D:\C#\подготовка\LeetCode75\MinimumNumberOfArrowsToBurstBalloons\obj\Debug\net7.0\MinimumNumberOfArrowsToBurstBalloons.pdb
+D:\C#\подготовка\LeetCode75\MinimumNumberOfArrowsToBurstBalloons\obj\Debug\net7.0\MinimumNumberOfArrowsToBurstBalloons.genruntimeconfig.cache
+D:\C#\подготовка\LeetCode75\MinimumNumberOfArrowsToBurstBalloons\obj\Debug\net7.0\ref\MinimumNumberOfArrowsToBurstBalloons.dll

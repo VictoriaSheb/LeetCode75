@@ -1,0 +1,15 @@
+E:\Shared\mine\C#\LeetCode75\OddEvenLinkedList\bin\Debug\net7.0\OddEvenLinkedList.exe
+E:\Shared\mine\C#\LeetCode75\OddEvenLinkedList\bin\Debug\net7.0\OddEvenLinkedList.deps.json
+E:\Shared\mine\C#\LeetCode75\OddEvenLinkedList\bin\Debug\net7.0\OddEvenLinkedList.runtimeconfig.json
+E:\Shared\mine\C#\LeetCode75\OddEvenLinkedList\bin\Debug\net7.0\OddEvenLinkedList.dll
+E:\Shared\mine\C#\LeetCode75\OddEvenLinkedList\bin\Debug\net7.0\OddEvenLinkedList.pdb
+E:\Shared\mine\C#\LeetCode75\OddEvenLinkedList\obj\Debug\net7.0\OddEvenLinkedList.csproj.AssemblyReference.cache
+E:\Shared\mine\C#\LeetCode75\OddEvenLinkedList\obj\Debug\net7.0\OddEvenLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shared\mine\C#\LeetCode75\OddEvenLinkedList\obj\Debug\net7.0\OddEvenLinkedList.AssemblyInfoInputs.cache
+E:\Shared\mine\C#\LeetCode75\OddEvenLinkedList\obj\Debug\net7.0\OddEvenLinkedList.AssemblyInfo.cs
+E:\Shared\mine\C#\LeetCode75\OddEvenLinkedList\obj\Debug\net7.0\OddEvenLinkedList.csproj.CoreCompileInputs.cache
+E:\Shared\mine\C#\LeetCode75\OddEvenLinkedList\obj\Debug\net7.0\OddEvenLinkedList.dll
+E:\Shared\mine\C#\LeetCode75\OddEvenLinkedList\obj\Debug\net7.0\refint\OddEvenLinkedList.dll
+E:\Shared\mine\C#\LeetCode75\OddEvenLinkedList\obj\Debug\net7.0\OddEvenLinkedList.pdb
+E:\Shared\mine\C#\LeetCode75\OddEvenLinkedList\obj\Debug\net7.0\OddEvenLinkedList.genruntimeconfig.cache
+E:\Shared\mine\C#\LeetCode75\OddEvenLinkedList\obj\Debug\net7.0\ref\OddEvenLinkedList.dll

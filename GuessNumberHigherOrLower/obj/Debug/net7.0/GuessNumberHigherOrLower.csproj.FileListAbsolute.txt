@@ -1,0 +1,15 @@
+D:\C#\подготовка\LeetCode75\GuessNumberHigherOrLower\bin\Debug\net7.0\GuessNumberHigherOrLower.exe
+D:\C#\подготовка\LeetCode75\GuessNumberHigherOrLower\bin\Debug\net7.0\GuessNumberHigherOrLower.deps.json
+D:\C#\подготовка\LeetCode75\GuessNumberHigherOrLower\bin\Debug\net7.0\GuessNumberHigherOrLower.runtimeconfig.json
+D:\C#\подготовка\LeetCode75\GuessNumberHigherOrLower\bin\Debug\net7.0\GuessNumberHigherOrLower.dll
+D:\C#\подготовка\LeetCode75\GuessNumberHigherOrLower\bin\Debug\net7.0\GuessNumberHigherOrLower.pdb
+D:\C#\подготовка\LeetCode75\GuessNumberHigherOrLower\obj\Debug\net7.0\GuessNumberHigherOrLower.csproj.AssemblyReference.cache
+D:\C#\подготовка\LeetCode75\GuessNumberHigherOrLower\obj\Debug\net7.0\GuessNumberHigherOrLower.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\подготовка\LeetCode75\GuessNumberHigherOrLower\obj\Debug\net7.0\GuessNumberHigherOrLower.AssemblyInfoInputs.cache
+D:\C#\подготовка\LeetCode75\GuessNumberHigherOrLower\obj\Debug\net7.0\GuessNumberHigherOrLower.AssemblyInfo.cs
+D:\C#\подготовка\LeetCode75\GuessNumberHigherOrLower\obj\Debug\net7.0\GuessNumberHigherOrLower.csproj.CoreCompileInputs.cache
+D:\C#\подготовка\LeetCode75\GuessNumberHigherOrLower\obj\Debug\net7.0\GuessNumberHigherOrLower.dll
+D:\C#\подготовка\LeetCode75\GuessNumberHigherOrLower\obj\Debug\net7.0\refint\GuessNumberHigherOrLower.dll
+D:\C#\подготовка\LeetCode75\GuessNumberHigherOrLower\obj\Debug\net7.0\GuessNumberHigherOrLower.pdb
+D:\C#\подготовка\LeetCode75\GuessNumberHigherOrLower\obj\Debug\net7.0\GuessNumberHigherOrLower.genruntimeconfig.cache
+D:\C#\подготовка\LeetCode75\GuessNumberHigherOrLower\obj\Debug\net7.0\ref\GuessNumberHigherOrLower.dll

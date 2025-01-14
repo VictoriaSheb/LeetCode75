@@ -1,0 +1,15 @@
+D:\C#\подготовка\LeetCode75\EditDistance\bin\Debug\net7.0\EditDistance.exe
+D:\C#\подготовка\LeetCode75\EditDistance\bin\Debug\net7.0\EditDistance.deps.json
+D:\C#\подготовка\LeetCode75\EditDistance\bin\Debug\net7.0\EditDistance.runtimeconfig.json
+D:\C#\подготовка\LeetCode75\EditDistance\bin\Debug\net7.0\EditDistance.dll
+D:\C#\подготовка\LeetCode75\EditDistance\bin\Debug\net7.0\EditDistance.pdb
+D:\C#\подготовка\LeetCode75\EditDistance\obj\Debug\net7.0\EditDistance.csproj.AssemblyReference.cache
+D:\C#\подготовка\LeetCode75\EditDistance\obj\Debug\net7.0\EditDistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\подготовка\LeetCode75\EditDistance\obj\Debug\net7.0\EditDistance.AssemblyInfoInputs.cache
+D:\C#\подготовка\LeetCode75\EditDistance\obj\Debug\net7.0\EditDistance.AssemblyInfo.cs
+D:\C#\подготовка\LeetCode75\EditDistance\obj\Debug\net7.0\EditDistance.csproj.CoreCompileInputs.cache
+D:\C#\подготовка\LeetCode75\EditDistance\obj\Debug\net7.0\EditDistance.dll
+D:\C#\подготовка\LeetCode75\EditDistance\obj\Debug\net7.0\refint\EditDistance.dll
+D:\C#\подготовка\LeetCode75\EditDistance\obj\Debug\net7.0\EditDistance.pdb
+D:\C#\подготовка\LeetCode75\EditDistance\obj\Debug\net7.0\EditDistance.genruntimeconfig.cache
+D:\C#\подготовка\LeetCode75\EditDistance\obj\Debug\net7.0\ref\EditDistance.dll

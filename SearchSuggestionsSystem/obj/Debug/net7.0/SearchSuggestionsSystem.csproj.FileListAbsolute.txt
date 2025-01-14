@@ -1,0 +1,15 @@
+D:\C#\подготовка\LeetCode75\SearchSuggestionsSystem\bin\Debug\net7.0\SearchSuggestionsSystem.exe
+D:\C#\подготовка\LeetCode75\SearchSuggestionsSystem\bin\Debug\net7.0\SearchSuggestionsSystem.deps.json
+D:\C#\подготовка\LeetCode75\SearchSuggestionsSystem\bin\Debug\net7.0\SearchSuggestionsSystem.runtimeconfig.json
+D:\C#\подготовка\LeetCode75\SearchSuggestionsSystem\bin\Debug\net7.0\SearchSuggestionsSystem.dll
+D:\C#\подготовка\LeetCode75\SearchSuggestionsSystem\bin\Debug\net7.0\SearchSuggestionsSystem.pdb
+D:\C#\подготовка\LeetCode75\SearchSuggestionsSystem\obj\Debug\net7.0\SearchSuggestionsSystem.csproj.AssemblyReference.cache
+D:\C#\подготовка\LeetCode75\SearchSuggestionsSystem\obj\Debug\net7.0\SearchSuggestionsSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\подготовка\LeetCode75\SearchSuggestionsSystem\obj\Debug\net7.0\SearchSuggestionsSystem.AssemblyInfoInputs.cache
+D:\C#\подготовка\LeetCode75\SearchSuggestionsSystem\obj\Debug\net7.0\SearchSuggestionsSystem.AssemblyInfo.cs
+D:\C#\подготовка\LeetCode75\SearchSuggestionsSystem\obj\Debug\net7.0\SearchSuggestionsSystem.csproj.CoreCompileInputs.cache
+D:\C#\подготовка\LeetCode75\SearchSuggestionsSystem\obj\Debug\net7.0\SearchSuggestionsSystem.dll
+D:\C#\подготовка\LeetCode75\SearchSuggestionsSystem\obj\Debug\net7.0\refint\SearchSuggestionsSystem.dll
+D:\C#\подготовка\LeetCode75\SearchSuggestionsSystem\obj\Debug\net7.0\SearchSuggestionsSystem.pdb
+D:\C#\подготовка\LeetCode75\SearchSuggestionsSystem\obj\Debug\net7.0\SearchSuggestionsSystem.genruntimeconfig.cache
+D:\C#\подготовка\LeetCode75\SearchSuggestionsSystem\obj\Debug\net7.0\ref\SearchSuggestionsSystem.dll

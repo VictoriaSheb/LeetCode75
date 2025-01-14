@@ -1,0 +1,15 @@
+D:\C#\подготовка\LeetCode75\NumberOfProvinces\bin\Debug\net7.0\NumberOfProvinces.exe
+D:\C#\подготовка\LeetCode75\NumberOfProvinces\bin\Debug\net7.0\NumberOfProvinces.deps.json
+D:\C#\подготовка\LeetCode75\NumberOfProvinces\bin\Debug\net7.0\NumberOfProvinces.runtimeconfig.json
+D:\C#\подготовка\LeetCode75\NumberOfProvinces\bin\Debug\net7.0\NumberOfProvinces.dll
+D:\C#\подготовка\LeetCode75\NumberOfProvinces\bin\Debug\net7.0\NumberOfProvinces.pdb
+D:\C#\подготовка\LeetCode75\NumberOfProvinces\obj\Debug\net7.0\NumberOfProvinces.csproj.AssemblyReference.cache
+D:\C#\подготовка\LeetCode75\NumberOfProvinces\obj\Debug\net7.0\NumberOfProvinces.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\подготовка\LeetCode75\NumberOfProvinces\obj\Debug\net7.0\NumberOfProvinces.AssemblyInfoInputs.cache
+D:\C#\подготовка\LeetCode75\NumberOfProvinces\obj\Debug\net7.0\NumberOfProvinces.AssemblyInfo.cs
+D:\C#\подготовка\LeetCode75\NumberOfProvinces\obj\Debug\net7.0\NumberOfProvinces.csproj.CoreCompileInputs.cache
+D:\C#\подготовка\LeetCode75\NumberOfProvinces\obj\Debug\net7.0\NumberOfProvinces.dll
+D:\C#\подготовка\LeetCode75\NumberOfProvinces\obj\Debug\net7.0\refint\NumberOfProvinces.dll
+D:\C#\подготовка\LeetCode75\NumberOfProvinces\obj\Debug\net7.0\NumberOfProvinces.pdb
+D:\C#\подготовка\LeetCode75\NumberOfProvinces\obj\Debug\net7.0\NumberOfProvinces.genruntimeconfig.cache
+D:\C#\подготовка\LeetCode75\NumberOfProvinces\obj\Debug\net7.0\ref\NumberOfProvinces.dll

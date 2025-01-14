@@ -1,0 +1,15 @@
+D:\C#\подготовка\LeetCode75\ReverseWordsInAString\bin\Debug\net7.0\ReverseWordsInAString_medium.exe
+D:\C#\подготовка\LeetCode75\ReverseWordsInAString\bin\Debug\net7.0\ReverseWordsInAString_medium.deps.json
+D:\C#\подготовка\LeetCode75\ReverseWordsInAString\bin\Debug\net7.0\ReverseWordsInAString_medium.runtimeconfig.json
+D:\C#\подготовка\LeetCode75\ReverseWordsInAString\bin\Debug\net7.0\ReverseWordsInAString_medium.dll
+D:\C#\подготовка\LeetCode75\ReverseWordsInAString\bin\Debug\net7.0\ReverseWordsInAString_medium.pdb
+D:\C#\подготовка\LeetCode75\ReverseWordsInAString\obj\Debug\net7.0\ReverseWordsInAString_medium.csproj.AssemblyReference.cache
+D:\C#\подготовка\LeetCode75\ReverseWordsInAString\obj\Debug\net7.0\ReverseWordsInAString_medium.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\подготовка\LeetCode75\ReverseWordsInAString\obj\Debug\net7.0\ReverseWordsInAString_medium.AssemblyInfoInputs.cache
+D:\C#\подготовка\LeetCode75\ReverseWordsInAString\obj\Debug\net7.0\ReverseWordsInAString_medium.AssemblyInfo.cs
+D:\C#\подготовка\LeetCode75\ReverseWordsInAString\obj\Debug\net7.0\ReverseWordsInAString_medium.csproj.CoreCompileInputs.cache
+D:\C#\подготовка\LeetCode75\ReverseWordsInAString\obj\Debug\net7.0\ReverseWordsInAString_medium.dll
+D:\C#\подготовка\LeetCode75\ReverseWordsInAString\obj\Debug\net7.0\refint\ReverseWordsInAString_medium.dll
+D:\C#\подготовка\LeetCode75\ReverseWordsInAString\obj\Debug\net7.0\ReverseWordsInAString_medium.pdb
+D:\C#\подготовка\LeetCode75\ReverseWordsInAString\obj\Debug\net7.0\ReverseWordsInAString_medium.genruntimeconfig.cache
+D:\C#\подготовка\LeetCode75\ReverseWordsInAString\obj\Debug\net7.0\ref\ReverseWordsInAString_medium.dll

@@ -1,0 +1,15 @@
+E:\Shared\mine\C#\LeetCode75\Dota2Senate\obj\Debug\net7.0\Dota2Senate.csproj.AssemblyReference.cache
+E:\Shared\mine\C#\LeetCode75\Dota2Senate\obj\Debug\net7.0\Dota2Senate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shared\mine\C#\LeetCode75\Dota2Senate\obj\Debug\net7.0\Dota2Senate.AssemblyInfoInputs.cache
+E:\Shared\mine\C#\LeetCode75\Dota2Senate\obj\Debug\net7.0\Dota2Senate.AssemblyInfo.cs
+E:\Shared\mine\C#\LeetCode75\Dota2Senate\obj\Debug\net7.0\Dota2Senate.csproj.CoreCompileInputs.cache
+E:\Shared\mine\C#\LeetCode75\Dota2Senate\bin\Debug\net7.0\Dota2Senate.exe
+E:\Shared\mine\C#\LeetCode75\Dota2Senate\bin\Debug\net7.0\Dota2Senate.deps.json
+E:\Shared\mine\C#\LeetCode75\Dota2Senate\bin\Debug\net7.0\Dota2Senate.runtimeconfig.json
+E:\Shared\mine\C#\LeetCode75\Dota2Senate\bin\Debug\net7.0\Dota2Senate.dll
+E:\Shared\mine\C#\LeetCode75\Dota2Senate\bin\Debug\net7.0\Dota2Senate.pdb
+E:\Shared\mine\C#\LeetCode75\Dota2Senate\obj\Debug\net7.0\Dota2Senate.dll
+E:\Shared\mine\C#\LeetCode75\Dota2Senate\obj\Debug\net7.0\refint\Dota2Senate.dll
+E:\Shared\mine\C#\LeetCode75\Dota2Senate\obj\Debug\net7.0\Dota2Senate.pdb
+E:\Shared\mine\C#\LeetCode75\Dota2Senate\obj\Debug\net7.0\Dota2Senate.genruntimeconfig.cache
+E:\Shared\mine\C#\LeetCode75\Dota2Senate\obj\Debug\net7.0\ref\Dota2Senate.dll

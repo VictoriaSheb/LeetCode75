@@ -1,0 +1,15 @@
+D:\C#\подготовка\LeetCode75\SingleNumber\bin\Debug\net7.0\SingleNumber.exe
+D:\C#\подготовка\LeetCode75\SingleNumber\bin\Debug\net7.0\SingleNumber.deps.json
+D:\C#\подготовка\LeetCode75\SingleNumber\bin\Debug\net7.0\SingleNumber.runtimeconfig.json
+D:\C#\подготовка\LeetCode75\SingleNumber\bin\Debug\net7.0\SingleNumber.dll
+D:\C#\подготовка\LeetCode75\SingleNumber\bin\Debug\net7.0\SingleNumber.pdb
+D:\C#\подготовка\LeetCode75\SingleNumber\obj\Debug\net7.0\SingleNumber.csproj.AssemblyReference.cache
+D:\C#\подготовка\LeetCode75\SingleNumber\obj\Debug\net7.0\SingleNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\подготовка\LeetCode75\SingleNumber\obj\Debug\net7.0\SingleNumber.AssemblyInfoInputs.cache
+D:\C#\подготовка\LeetCode75\SingleNumber\obj\Debug\net7.0\SingleNumber.AssemblyInfo.cs
+D:\C#\подготовка\LeetCode75\SingleNumber\obj\Debug\net7.0\SingleNumber.csproj.CoreCompileInputs.cache
+D:\C#\подготовка\LeetCode75\SingleNumber\obj\Debug\net7.0\SingleNumber.dll
+D:\C#\подготовка\LeetCode75\SingleNumber\obj\Debug\net7.0\refint\SingleNumber.dll
+D:\C#\подготовка\LeetCode75\SingleNumber\obj\Debug\net7.0\SingleNumber.pdb
+D:\C#\подготовка\LeetCode75\SingleNumber\obj\Debug\net7.0\SingleNumber.genruntimeconfig.cache
+D:\C#\подготовка\LeetCode75\SingleNumber\obj\Debug\net7.0\ref\SingleNumber.dll

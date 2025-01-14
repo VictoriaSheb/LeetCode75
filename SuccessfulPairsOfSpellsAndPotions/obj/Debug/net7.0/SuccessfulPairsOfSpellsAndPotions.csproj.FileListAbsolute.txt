@@ -1,0 +1,15 @@
+D:\C#\подготовка\LeetCode75\SuccessfulPairsOfSpellsAndPotions\bin\Debug\net7.0\SuccessfulPairsOfSpellsAndPotions.exe
+D:\C#\подготовка\LeetCode75\SuccessfulPairsOfSpellsAndPotions\bin\Debug\net7.0\SuccessfulPairsOfSpellsAndPotions.deps.json
+D:\C#\подготовка\LeetCode75\SuccessfulPairsOfSpellsAndPotions\bin\Debug\net7.0\SuccessfulPairsOfSpellsAndPotions.runtimeconfig.json
+D:\C#\подготовка\LeetCode75\SuccessfulPairsOfSpellsAndPotions\bin\Debug\net7.0\SuccessfulPairsOfSpellsAndPotions.dll
+D:\C#\подготовка\LeetCode75\SuccessfulPairsOfSpellsAndPotions\bin\Debug\net7.0\SuccessfulPairsOfSpellsAndPotions.pdb
+D:\C#\подготовка\LeetCode75\SuccessfulPairsOfSpellsAndPotions\obj\Debug\net7.0\SuccessfulPairsOfSpellsAndPotions.csproj.AssemblyReference.cache
+D:\C#\подготовка\LeetCode75\SuccessfulPairsOfSpellsAndPotions\obj\Debug\net7.0\SuccessfulPairsOfSpellsAndPotions.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\подготовка\LeetCode75\SuccessfulPairsOfSpellsAndPotions\obj\Debug\net7.0\SuccessfulPairsOfSpellsAndPotions.AssemblyInfoInputs.cache
+D:\C#\подготовка\LeetCode75\SuccessfulPairsOfSpellsAndPotions\obj\Debug\net7.0\SuccessfulPairsOfSpellsAndPotions.AssemblyInfo.cs
+D:\C#\подготовка\LeetCode75\SuccessfulPairsOfSpellsAndPotions\obj\Debug\net7.0\SuccessfulPairsOfSpellsAndPotions.csproj.CoreCompileInputs.cache
+D:\C#\подготовка\LeetCode75\SuccessfulPairsOfSpellsAndPotions\obj\Debug\net7.0\SuccessfulPairsOfSpellsAndPotions.dll
+D:\C#\подготовка\LeetCode75\SuccessfulPairsOfSpellsAndPotions\obj\Debug\net7.0\refint\SuccessfulPairsOfSpellsAndPotions.dll
+D:\C#\подготовка\LeetCode75\SuccessfulPairsOfSpellsAndPotions\obj\Debug\net7.0\SuccessfulPairsOfSpellsAndPotions.pdb
+D:\C#\подготовка\LeetCode75\SuccessfulPairsOfSpellsAndPotions\obj\Debug\net7.0\SuccessfulPairsOfSpellsAndPotions.genruntimeconfig.cache
+D:\C#\подготовка\LeetCode75\SuccessfulPairsOfSpellsAndPotions\obj\Debug\net7.0\ref\SuccessfulPairsOfSpellsAndPotions.dll

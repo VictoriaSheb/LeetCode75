@@ -1,0 +1,15 @@
+D:\C#\подготовка\LeetCode75\ImplementTrie\bin\Debug\net7.0\ImplementTrie.exe
+D:\C#\подготовка\LeetCode75\ImplementTrie\bin\Debug\net7.0\ImplementTrie.deps.json
+D:\C#\подготовка\LeetCode75\ImplementTrie\bin\Debug\net7.0\ImplementTrie.runtimeconfig.json
+D:\C#\подготовка\LeetCode75\ImplementTrie\bin\Debug\net7.0\ImplementTrie.dll
+D:\C#\подготовка\LeetCode75\ImplementTrie\bin\Debug\net7.0\ImplementTrie.pdb
+D:\C#\подготовка\LeetCode75\ImplementTrie\obj\Debug\net7.0\ImplementTrie.csproj.AssemblyReference.cache
+D:\C#\подготовка\LeetCode75\ImplementTrie\obj\Debug\net7.0\ImplementTrie.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\подготовка\LeetCode75\ImplementTrie\obj\Debug\net7.0\ImplementTrie.AssemblyInfoInputs.cache
+D:\C#\подготовка\LeetCode75\ImplementTrie\obj\Debug\net7.0\ImplementTrie.AssemblyInfo.cs
+D:\C#\подготовка\LeetCode75\ImplementTrie\obj\Debug\net7.0\ImplementTrie.csproj.CoreCompileInputs.cache
+D:\C#\подготовка\LeetCode75\ImplementTrie\obj\Debug\net7.0\ImplementTrie.dll
+D:\C#\подготовка\LeetCode75\ImplementTrie\obj\Debug\net7.0\refint\ImplementTrie.dll
+D:\C#\подготовка\LeetCode75\ImplementTrie\obj\Debug\net7.0\ImplementTrie.pdb
+D:\C#\подготовка\LeetCode75\ImplementTrie\obj\Debug\net7.0\ImplementTrie.genruntimeconfig.cache
+D:\C#\подготовка\LeetCode75\ImplementTrie\obj\Debug\net7.0\ref\ImplementTrie.dll

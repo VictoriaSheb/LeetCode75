@@ -1,0 +1,15 @@
+D:\C#\подготовка\LeetCode75\RottingOranges\obj\Debug\net7.0\RottingOranges.csproj.AssemblyReference.cache
+D:\C#\подготовка\LeetCode75\RottingOranges\obj\Debug\net7.0\RottingOranges.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\подготовка\LeetCode75\RottingOranges\obj\Debug\net7.0\RottingOranges.AssemblyInfoInputs.cache
+D:\C#\подготовка\LeetCode75\RottingOranges\obj\Debug\net7.0\RottingOranges.AssemblyInfo.cs
+D:\C#\подготовка\LeetCode75\RottingOranges\obj\Debug\net7.0\RottingOranges.csproj.CoreCompileInputs.cache
+D:\C#\подготовка\LeetCode75\RottingOranges\bin\Debug\net7.0\RottingOranges.exe
+D:\C#\подготовка\LeetCode75\RottingOranges\bin\Debug\net7.0\RottingOranges.deps.json
+D:\C#\подготовка\LeetCode75\RottingOranges\bin\Debug\net7.0\RottingOranges.runtimeconfig.json
+D:\C#\подготовка\LeetCode75\RottingOranges\bin\Debug\net7.0\RottingOranges.dll
+D:\C#\подготовка\LeetCode75\RottingOranges\bin\Debug\net7.0\RottingOranges.pdb
+D:\C#\подготовка\LeetCode75\RottingOranges\obj\Debug\net7.0\RottingOranges.dll
+D:\C#\подготовка\LeetCode75\RottingOranges\obj\Debug\net7.0\refint\RottingOranges.dll
+D:\C#\подготовка\LeetCode75\RottingOranges\obj\Debug\net7.0\RottingOranges.pdb
+D:\C#\подготовка\LeetCode75\RottingOranges\obj\Debug\net7.0\RottingOranges.genruntimeconfig.cache
+D:\C#\подготовка\LeetCode75\RottingOranges\obj\Debug\net7.0\ref\RottingOranges.dll

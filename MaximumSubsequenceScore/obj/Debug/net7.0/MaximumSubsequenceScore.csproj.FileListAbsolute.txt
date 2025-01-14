@@ -1,0 +1,15 @@
+D:\C#\подготовка\LeetCode75\MaximumSubsequenceScore\bin\Debug\net7.0\MaximumSubsequenceScore.exe
+D:\C#\подготовка\LeetCode75\MaximumSubsequenceScore\bin\Debug\net7.0\MaximumSubsequenceScore.deps.json
+D:\C#\подготовка\LeetCode75\MaximumSubsequenceScore\bin\Debug\net7.0\MaximumSubsequenceScore.runtimeconfig.json
+D:\C#\подготовка\LeetCode75\MaximumSubsequenceScore\bin\Debug\net7.0\MaximumSubsequenceScore.dll
+D:\C#\подготовка\LeetCode75\MaximumSubsequenceScore\bin\Debug\net7.0\MaximumSubsequenceScore.pdb
+D:\C#\подготовка\LeetCode75\MaximumSubsequenceScore\obj\Debug\net7.0\MaximumSubsequenceScore.csproj.AssemblyReference.cache
+D:\C#\подготовка\LeetCode75\MaximumSubsequenceScore\obj\Debug\net7.0\MaximumSubsequenceScore.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\подготовка\LeetCode75\MaximumSubsequenceScore\obj\Debug\net7.0\MaximumSubsequenceScore.AssemblyInfoInputs.cache
+D:\C#\подготовка\LeetCode75\MaximumSubsequenceScore\obj\Debug\net7.0\MaximumSubsequenceScore.AssemblyInfo.cs
+D:\C#\подготовка\LeetCode75\MaximumSubsequenceScore\obj\Debug\net7.0\MaximumSubsequenceScore.csproj.CoreCompileInputs.cache
+D:\C#\подготовка\LeetCode75\MaximumSubsequenceScore\obj\Debug\net7.0\MaximumSubsequenceScore.dll
+D:\C#\подготовка\LeetCode75\MaximumSubsequenceScore\obj\Debug\net7.0\refint\MaximumSubsequenceScore.dll
+D:\C#\подготовка\LeetCode75\MaximumSubsequenceScore\obj\Debug\net7.0\MaximumSubsequenceScore.pdb
+D:\C#\подготовка\LeetCode75\MaximumSubsequenceScore\obj\Debug\net7.0\MaximumSubsequenceScore.genruntimeconfig.cache
+D:\C#\подготовка\LeetCode75\MaximumSubsequenceScore\obj\Debug\net7.0\ref\MaximumSubsequenceScore.dll

@@ -1,0 +1,15 @@
+D:\C#\подготовка\LeetCode75\DailyTemperatures\bin\Debug\net7.0\DailyTemperatures.exe
+D:\C#\подготовка\LeetCode75\DailyTemperatures\bin\Debug\net7.0\DailyTemperatures.deps.json
+D:\C#\подготовка\LeetCode75\DailyTemperatures\bin\Debug\net7.0\DailyTemperatures.runtimeconfig.json
+D:\C#\подготовка\LeetCode75\DailyTemperatures\bin\Debug\net7.0\DailyTemperatures.dll
+D:\C#\подготовка\LeetCode75\DailyTemperatures\bin\Debug\net7.0\DailyTemperatures.pdb
+D:\C#\подготовка\LeetCode75\DailyTemperatures\obj\Debug\net7.0\DailyTemperatures.csproj.AssemblyReference.cache
+D:\C#\подготовка\LeetCode75\DailyTemperatures\obj\Debug\net7.0\DailyTemperatures.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\подготовка\LeetCode75\DailyTemperatures\obj\Debug\net7.0\DailyTemperatures.AssemblyInfoInputs.cache
+D:\C#\подготовка\LeetCode75\DailyTemperatures\obj\Debug\net7.0\DailyTemperatures.AssemblyInfo.cs
+D:\C#\подготовка\LeetCode75\DailyTemperatures\obj\Debug\net7.0\DailyTemperatures.csproj.CoreCompileInputs.cache
+D:\C#\подготовка\LeetCode75\DailyTemperatures\obj\Debug\net7.0\DailyTemperatures.dll
+D:\C#\подготовка\LeetCode75\DailyTemperatures\obj\Debug\net7.0\refint\DailyTemperatures.dll
+D:\C#\подготовка\LeetCode75\DailyTemperatures\obj\Debug\net7.0\DailyTemperatures.pdb
+D:\C#\подготовка\LeetCode75\DailyTemperatures\obj\Debug\net7.0\DailyTemperatures.genruntimeconfig.cache
+D:\C#\подготовка\LeetCode75\DailyTemperatures\obj\Debug\net7.0\ref\DailyTemperatures.dll

@@ -1,0 +1,15 @@
+E:\Shared\mine\C#\LeetCode75\UniqueNumberOsOccurrences\bin\Debug\net7.0\UniqueNumberOsOccurrences.exe
+E:\Shared\mine\C#\LeetCode75\UniqueNumberOsOccurrences\bin\Debug\net7.0\UniqueNumberOsOccurrences.deps.json
+E:\Shared\mine\C#\LeetCode75\UniqueNumberOsOccurrences\bin\Debug\net7.0\UniqueNumberOsOccurrences.runtimeconfig.json
+E:\Shared\mine\C#\LeetCode75\UniqueNumberOsOccurrences\bin\Debug\net7.0\UniqueNumberOsOccurrences.dll
+E:\Shared\mine\C#\LeetCode75\UniqueNumberOsOccurrences\bin\Debug\net7.0\UniqueNumberOsOccurrences.pdb
+E:\Shared\mine\C#\LeetCode75\UniqueNumberOsOccurrences\obj\Debug\net7.0\UniqueNumberOsOccurrences.csproj.AssemblyReference.cache
+E:\Shared\mine\C#\LeetCode75\UniqueNumberOsOccurrences\obj\Debug\net7.0\UniqueNumberOsOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shared\mine\C#\LeetCode75\UniqueNumberOsOccurrences\obj\Debug\net7.0\UniqueNumberOsOccurrences.AssemblyInfoInputs.cache
+E:\Shared\mine\C#\LeetCode75\UniqueNumberOsOccurrences\obj\Debug\net7.0\UniqueNumberOsOccurrences.AssemblyInfo.cs
+E:\Shared\mine\C#\LeetCode75\UniqueNumberOsOccurrences\obj\Debug\net7.0\UniqueNumberOsOccurrences.csproj.CoreCompileInputs.cache
+E:\Shared\mine\C#\LeetCode75\UniqueNumberOsOccurrences\obj\Debug\net7.0\UniqueNumberOsOccurrences.dll
+E:\Shared\mine\C#\LeetCode75\UniqueNumberOsOccurrences\obj\Debug\net7.0\refint\UniqueNumberOsOccurrences.dll
+E:\Shared\mine\C#\LeetCode75\UniqueNumberOsOccurrences\obj\Debug\net7.0\UniqueNumberOsOccurrences.pdb
+E:\Shared\mine\C#\LeetCode75\UniqueNumberOsOccurrences\obj\Debug\net7.0\UniqueNumberOsOccurrences.genruntimeconfig.cache
+E:\Shared\mine\C#\LeetCode75\UniqueNumberOsOccurrences\obj\Debug\net7.0\ref\UniqueNumberOsOccurrences.dll
