@@ -1,8 +1,0 @@
-D:\C#\подготовка\LeetCode75\HouseRobber2\bin\Debug\HouseRobber2.exe.config
-D:\C#\подготовка\LeetCode75\HouseRobber2\bin\Debug\HouseRobber2.exe
-D:\C#\подготовка\LeetCode75\HouseRobber2\bin\Debug\HouseRobber2.pdb
-D:\C#\подготовка\LeetCode75\HouseRobber2\obj\Debug\HouseRobber2.csproj.AssemblyReference.cache
-D:\C#\подготовка\LeetCode75\HouseRobber2\obj\Debug\HouseRobber2.csproj.SuggestedBindingRedirects.cache
-D:\C#\подготовка\LeetCode75\HouseRobber2\obj\Debug\HouseRobber2.csproj.CoreCompileInputs.cache
-D:\C#\подготовка\LeetCode75\HouseRobber2\obj\Debug\HouseRobber2.exe
-D:\C#\подготовка\LeetCode75\HouseRobber2\obj\Debug\HouseRobber2.pdb
