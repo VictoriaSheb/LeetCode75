@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "U7xy55NkXRCilTr7A/oz4xpV3HTPGotEK91EF7G6NkPtYbmwCW5oCwmgmtLxFxNjOM+pV6PF0/rlD+slfJE/Wg==",
+  "dgSpecHash": "8BVvu0D4dF8=",
   "success": true,
   "projectFilePath": "D:\\C#\\подготовка\\LeetCode75\\FindTheHighestAltitude\\FindTheHighestAltitude.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

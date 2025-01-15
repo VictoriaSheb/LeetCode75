@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "jPSC8sA6udsuxVfMxoeYZmd8IxI3E7h+f1flAD4CfLFp+2VhI9dd3mYBG5YNKUACnCQ0SRclmzRTMMmg9qtAkA==",
+  "dgSpecHash": "FAIZ2WNzF2k=",
   "success": true,
   "projectFilePath": "D:\\C#\\подготовка\\LeetCode75\\SuccessfulPairsOfSpellsAndPotions\\SuccessfulPairsOfSpellsAndPotions.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

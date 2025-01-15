@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "d508KdMwxqu1p18Aa4H25RQT4Ax+upDiELuDTGkx5GowF7/wWaOJ3kgAcFhnc8rGgKNi/+12BdmjDni2da/9qg==",
+  "dgSpecHash": "1H9Wf0ZpSQg=",
   "success": true,
   "projectFilePath": "D:\\C#\\подготовка\\LeetCode75\\EditDistance\\EditDistance.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

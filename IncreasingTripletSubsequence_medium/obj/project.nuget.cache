@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "jzXK9k+m6VuklJm1YKPOS0Ko8vgRxE1ZTC36oZ5igX7kh46BQen45prLodQ4LvsM2TtmVrO8oy76q5ktlF7dGg==",
+  "dgSpecHash": "TKe6irxwh0U=",
   "success": true,
   "projectFilePath": "D:\\C#\\подготовка\\LeetCode75\\IncreasingTripletSubsequence_medium\\IncreasingTripletSubsequence_medium.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "e0PTcr88OKdqTl+XO8LBAew7TcsoQaAJ4YBUJifCAZQsoTLSfjah7WxykjWRs96lzovP8nll+q3v1jwrbEEdvw==",
+  "dgSpecHash": "Gv+s9WSWNm0=",
   "success": true,
   "projectFilePath": "D:\\C#\\подготовка\\LeetCode75\\FindPrivotIndex\\FindPrivotIndex.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "3SbEMtEEa2KDJgtjMwpZTIshY+E/rKCGLR99JqkIYCGPpaC+1WMptQvX1yQs+gBVE9cMY15Qvu3btcoORqcGWA==",
+  "dgSpecHash": "bqKoTIMNN8E=",
   "success": true,
   "projectFilePath": "D:\\C#\\подготовка\\LeetCode75\\ReverseLinkedList\\ReverseLinkedList.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

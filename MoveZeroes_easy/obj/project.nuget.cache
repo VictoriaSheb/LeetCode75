@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "sTpA48xoOSCysa/nICA1+u4EfkYvk/lo7fNJJv4EIXyFcLZlgY4FpJwkKfri3E9idC1QryWJKi51uzD7vqVhPQ==",
+  "dgSpecHash": "HMdz8O2IX6w=",
   "success": true,
   "projectFilePath": "D:\\C#\\подготовка\\LeetCode75\\MoveZeroes_easy\\MoveZeroes_easy.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

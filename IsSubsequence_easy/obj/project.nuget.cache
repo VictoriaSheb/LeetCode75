@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "LD+n+ZC9zWRUMl9Z0jekoniHvm0gEMZ5jm1CkU0t30/I7MRF3+Lw9tg8/9bOB9LMjf0e4NKWG4jQ8YgvQkQUpQ==",
+  "dgSpecHash": "bJVVRClS8UE=",
   "success": true,
   "projectFilePath": "D:\\C#\\подготовка\\LeetCode75\\IsSubsequence_easy\\IsSubsequence_easy.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

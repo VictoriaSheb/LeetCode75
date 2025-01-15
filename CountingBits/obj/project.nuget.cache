@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "94DNWRrhZ4AkA0Eb+85liL50+bwt6sRHeQ+9VSgtdSO6PQxvCRIKu5BjPZw1nFEUuOVYDwoNtWes49pG1vlWBg==",
+  "dgSpecHash": "vF/XAb3dPOg=",
   "success": true,
   "projectFilePath": "D:\\C#\\подготовка\\LeetCode75\\CountingBits\\CountingBits.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

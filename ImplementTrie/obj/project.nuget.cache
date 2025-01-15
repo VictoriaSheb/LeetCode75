@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "QFfbu3cVMKcqWBMvF0musJu+MHoNkYce45cWZ0UU+EvAKZkemlGU+XoptXj2x/PSIaSLn6ek2nRdb6aIugh1rA==",
+  "dgSpecHash": "1jN1aGMbtuA=",
   "success": true,
   "projectFilePath": "D:\\C#\\подготовка\\LeetCode75\\ImplementTrie\\ImplementTrie.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

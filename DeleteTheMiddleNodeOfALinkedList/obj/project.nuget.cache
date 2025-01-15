@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "mzepkBhIiSmfO6njcXwNc22WIl8SWf/l5UPBSJIjo2Uka95eqA7Gj22Fz24Od2NpFdLhVj/jF009d24AexEthg==",
+  "dgSpecHash": "7AJZ5hPucMk=",
   "success": true,
   "projectFilePath": "D:\\C#\\подготовка\\LeetCode75\\DeleteTheMiddleNodeOfALinkedList\\DeleteTheMiddleNodeOfALinkedList.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "a68hqnemSnv55xYrbOf7QyaYiVT3FECPIbRFWpX8oKgjIrElUD0QxEawKTWfPfJzl17qqrg/L5OaNGYrzoy2mg==",
+  "dgSpecHash": "6MzQNCddHvQ=",
   "success": true,
   "projectFilePath": "D:\\C#\\подготовка\\LeetCode75\\StringCompression_medium\\StringCompression_medium.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

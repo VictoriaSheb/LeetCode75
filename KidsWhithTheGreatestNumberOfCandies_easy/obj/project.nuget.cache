@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "UIo4GwyXLROhuP1H+dzq9WbykEnaET8sDTWOOQN02J9f6KsdNPCwYx/zh6s6Xi8n6fnleyIzWJLnMIUSmqImLA==",
+  "dgSpecHash": "fO6nb5U2clg=",
   "success": true,
   "projectFilePath": "D:\\C#\\подготовка\\LeetCode75\\KidsWhithTheGreatestNumberOfCandies_easy\\KidsWhithTheGreatestNumberOfCandies_easy.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

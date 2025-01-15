@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ebPeU+c3rEyvkMC2RQmnMjO4k0W/p7YOb/DHxKF3a1VdEiTVW3cQtXyc37WazzHgzPg6AJ42048ugRc2VMOH/A==",
+  "dgSpecHash": "8p11lGkAizE=",
   "success": true,
   "projectFilePath": "D:\\C#\\подготовка\\LeetCode75\\CombinationSum3\\CombinationSum3.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

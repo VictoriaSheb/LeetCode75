@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9yIsxa6cPHHAh57hyQGQlG6pPOXp2XSzOfFfIG961l96Ru5LrMyB67mEuY/VF+M24sWZCHSz9H4Ha4PDndtrJg==",
+  "dgSpecHash": "rDx3G3IQINw=",
   "success": true,
   "projectFilePath": "D:\\C#\\подготовка\\LeetCode75\\RemovingStarsFromAString\\RemovingStarsFromAString.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

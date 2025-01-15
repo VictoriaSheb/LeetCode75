@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "zgmBJoB5JjwtnQlOS1mHynncrKJCesbV4Z683I5Ht5i68pQ58S3rV25CKKTupxaPiA6WwHD4RdhQeBQrRd/SNw==",
+  "dgSpecHash": "9MTEukYpkyI=",
   "success": true,
   "projectFilePath": "D:\\C#\\подготовка\\LeetCode75\\OddEvenLinkedList\\OddEvenLinkedList.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

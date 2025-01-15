@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "zXaH9Vy/EMNjsjVobs7m94IkBH3dNckl55G9C0N9oOEmXPaBpbJ7Gpt2mlV8OQlef1WTjAOCP54BGdntyP2qRA==",
+  "dgSpecHash": "LN/REWR9xF4=",
   "success": true,
   "projectFilePath": "D:\\C#\\подготовка\\LeetCode75\\Dota2Senate\\Dota2Senate.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

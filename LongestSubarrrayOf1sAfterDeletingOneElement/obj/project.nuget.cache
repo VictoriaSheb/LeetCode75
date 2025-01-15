@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "AARc0n4wURAyVePe5VkO6Snzapy4vHZFAN4L7k6JfSvvupNxouUXo8zymDT8f3GeHl9hYUcLe6w9gooEw6EH/Q==",
+  "dgSpecHash": "DNQdDdKmCIo=",
   "success": true,
   "projectFilePath": "D:\\C#\\подготовка\\LeetCode75\\LongestSubarrrayOf1sAfterDeletingOneElement\\LongestSubarrrayOf1sAfterDeletingOneElement.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\79156\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
